@@ -1,7 +1,7 @@
 ## Opa, e ai! João Hütner aqui👋
 <br/>Sou apaixonado por resolver problemas utilizando a programação. :blue_heart:
-<br/>Sou pesquisador na área de matemática computacional e também Implementador de Sistemas e Desenvolvedor Deluge :computer:
-<br/>Sou estudante de Engenharia de Computação pela Univali de Itajaí :vhs:
+<br/>Pesquisador na área de matemática computacional e também Implementador de Sistemas e Desenvolvedor Deluge :computer:
+<br/>Estudante de Engenharia de Computação pela Univali de Itajaí :vhs:
 
  :file_folder:  &nbsp; Estou trabalhando na **Crm7**
  <br/> :eyeglasses: &nbsp; Atualmente estou estudando FullStack Web Development pela rocketseat e tópicos avançados em Python pela Udemy
