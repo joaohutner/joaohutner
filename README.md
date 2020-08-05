@@ -1,6 +1,3 @@
-<img width="auto" src="https://avatars0.githubusercontent.com/u/49768612?s=400&u=ab1829bc38b87a92f0e504d73b5d043ff1adb369&v=4">
-
-
 # João Victor Hütner
 
 ## Opa, e ai! 👋
