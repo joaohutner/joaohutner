@@ -1,6 +1,4 @@
-# João Victor Hütner
-
-## Opa, e ai! 👋
+## Opa, e ai! João Hütner aqui👋
 Sou apaixonado por resolver problemas utilizando a programação.
 <br/>Sou pesquisador na área de matemática computacional e também Implementador de Sistemas e Desenvolvedor Deluge:computer:
 <br/>Sou estudante de Engenharia de Computação pela Univali de Itajaí
