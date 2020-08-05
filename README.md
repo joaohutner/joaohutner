@@ -2,7 +2,7 @@
 
 ## Opa, e ai! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou pesquisador na área de matemática computacional e também Implementador de Sistemas :computer:
+<br/>Sou pesquisador na área de matemática computacional e também Implementador de Sistemas :computer:
 
  :file_folder:  &nbsp; Estou trabalhando na **Crm7**
  <br/> :purple_heart: &nbsp; Atualmente estou estudando Web Dev Full Stack
