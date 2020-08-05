@@ -1,3 +1,5 @@
+<img width="auto" src="https://github.com/joaohutner/joaohutner/blob/master/photo-1578801503688-d30fffee6a9e.jpg">
+
 ## Opa, e ai! João Hütner aqui👋
 Sou apaixonado por resolver problemas utilizando a programação. :blue_heart:
 <br/>Pesquisador na área de matemática computacional e também Implementador de Sistemas e Desenvolvedor Deluge :computer:
