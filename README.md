@@ -1,16 +1,17 @@
-### Hi there 👋
+<img width="auto" src="https://avatars0.githubusercontent.com/u/49768612?s=400&u=ab1829bc38b87a92f0e504d73b5d043ff1adb369&v=4">
 
-<!--
-**joaohutner/joaohutner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# João Victor Hütner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Opa, e ai! 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou pesquisador na área de matemática computacional e também Implementador de Sistemas :computer:
+
+ :file_folder:  &nbsp; Estou trabalhando na **Crm7**
+ <br/> :purple_heart: &nbsp; Atualmente estou estudando Web Dev Full Stack
+ <br/> :blush: &nbsp; Posso te ajudar com Estrutura de Dados e Programação Orientada
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoaoHutner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-hutner/)](https://www.linkedin.com/in/joao-victor-hutner/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-joaovictorhutner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictorhutner@gmail.com)](mailto:joaovictorhutner@gmail.com)
