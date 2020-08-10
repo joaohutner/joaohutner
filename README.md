@@ -1,7 +1,7 @@
 <img width="500x301" src="https://github.com/joaohutner/joaohutner/blob/master/banner.png">
 
 ## E aí! João Hütner aqui 👋
-Sou apaixonado por resolver problemas utilizando a programação. :blue_heart:
+Sou apaixonado por resolver problemas utilizando a programação :blue_heart:
 <br/>Pesquisador na área de matemática computacional, implementador de sistemas CRM e desenvolvedor Deluge :computer:
 <br/>Estudante de Engenharia de Computação pela UNIVALI de Itajaí :vhs:<br/> 
  <br/> :file_folder:  &nbsp; Estou trabalhando na **CRM7**
