@@ -11,3 +11,5 @@ Sou apaixonado por resolver problemas utilizando a programação. :blue_heart:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoaoHutner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-hutner/)](https://www.linkedin.com/in/joao-victor-hutner/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-joaovictorhutner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictorhutner@gmail.com)](mailto:joaovictorhutner@gmail.com)
+
+## Hi there! João Hütner here👋
