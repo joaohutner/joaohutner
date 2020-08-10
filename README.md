@@ -1,4 +1,4 @@
-<img width="500x301" src="https://github.com/joaohutner/joaohutner/blob/master/banner.png">
+<img width="auto" src="https://github.com/joaohutner/joaohutner/blob/master/banner.jpg">
 
 ## E aí! João Hütner aqui 👋
 Sou apaixonado por resolver problemas utilizando a programação :blue_heart:
