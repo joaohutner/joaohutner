@@ -2,7 +2,7 @@
 
 ## E aí! João Hütner aqui 👋
 Sou apaixonado por resolver problemas utilizando a programação :blue_heart:
-<br/>Pesquisador na área de matemática computacional, implementador de sistemas CRM e desenvolvedor Deluge e desenvolvedor RPA :computer:
+<br/>Pesquisador na área de matemática computacional, implementador de sistemas CRM, desenvolvedor Deluge e de RPA :computer:
 <br/>Estudante de Engenharia de Computação pela UNIVALI de Itajaí :vhs:<br/> 
  <br/> :file_folder:  &nbsp; Estou trabalhando na **BRF**
  <br/> :eyeglasses: &nbsp; Atualmente estudo fullstack web development pela **Rocketseat** e tópicos avançados em Python pela **Udemy**
