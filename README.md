@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação :blue_heart:
 <br/>Pesquisador na área de matemática computacional, implementador de sistemas CRM, desenvolvedor Deluge e de RPA :computer:
 <br/>Estudante de Engenharia de Computação pela UNIVALI de Itajaí :vhs:<br/> 
- <br/> :file_folder:  &nbsp; Estou trabalhando na **Kie-Tec**
+ <br/> :file_folder:  &nbsp; Estou trabalhando na **CIE&T**
  <br/> :eyeglasses: &nbsp; Atualmente Engenharia de Dados pela **DataScienceAcademy**
  <br/> :blush: &nbsp; Posso te ajudar com estrutura de dados e programação orientada a objetos nas linguagens C, C++, Python e Zoho Deluge
  <br/> 💬  &nbsp; Sobre mim: curto adentrar no mundo tecnológico, assistir ficção científica e ler mangás
