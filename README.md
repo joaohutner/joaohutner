@@ -3,8 +3,8 @@
 ### Hey there! João Hütner here 👋  
 I'm passionate about solving problems through programming :blue_heart:  
 <br/>Researcher in computational mathematics, CRM system implementer, Deluge developer, and RPA developer :computer:  
-<br/>Computer Engineering student at UNIVALI in Itajaí :vhs:<br/>  
-<br/> :file_folder: &nbsp; Currently working at **CI&T**  
+<br/>Computer Engineer :vhs:<br/>  
+<br/> :file_folder: &nbsp; Currently working at **CI&T** as an Automation Architect
 <br/> :eyeglasses: &nbsp; Studying Data Engineering at **DataScienceAcademy**  
 <br/> :blush: &nbsp; I can help you with data structures and object-oriented programming in C, C++, Python, and Zoho Deluge  
 <br/> 💬 &nbsp; About me: I enjoy diving into the tech world, watching sci-fi, and reading manga  
